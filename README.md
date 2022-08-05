@@ -1,5 +1,5 @@
 # 05_Constructor_overload
-### Constructor overload is like method overload. We use it to instantiate different kind of object within the same class.
+### Constructor overload is like method overload. We use it to instantiate different kinds of objects within the same class.
 ### It just need to has different parameters list.
 ```
 class Name
